@@ -17,29 +17,29 @@ Building upon Freenet's concepts but with:
 ## Phase 1: Foundation (Months 1-3)
 
 ### Research & Specifications
-- [ ] Whitepaper v0.1 documenting protocol design
-- [ ] Threat model analysis (Sybil attacks, storage attacks)
-- [ ] Blockchain selection (Ethereum, IPFS, or custom chain)
-- [ ] Incentive mechanism design (token rewards for hosting?)
+- [x] Whitepaper v0.1 documenting protocol design
+- [x] Threat model analysis (Sybil attacks, storage attacks)
+- [x] Blockchain selection (Ethereum, IPFS, or custom chain)
+- [x] Incentive mechanism design (token rewards for hosting?)
 
 ### Core Components
-- [ ] Blockchain-based DNS prototype
-- [ ] P2P content hosting proof-of-concept
-- [ ] Minimal viable client (desktop first)
+- [x] Blockchain-based DNS prototype
+- [x] P2P content hosting proof-of-concept
+- [x] Minimal viable client (desktop first)
 
 ## Phase 2: Development (Months 4-9)
 
 ### Protocol Implementation
 - [ ] UIP node software (Rust/Go)
-- [ ] Smart contracts for DNS registry
-- [ ] Content addressing system (IPFS-like but with mobile optimizations)
-- [ ] Data replication and caching strategy
+- [x] Smart contracts for DNS registry
+- [x] Content addressing system (IPFS-like but with mobile optimizations)
+- [x] Data replication and caching strategy
 
 ### Network Features
 
-- [ ] Dark routing capability (Tor-like but decentralized)
-- [ ] Reputation system for peers
-- [ ] Storage proofs for hosting verification
+- [x] Dark routing capability (Tor-like but decentralized)
+- [x] Reputation system for peers
+- [x] Storage proofs for hosting verification
 
 ## Phase 3: Mobile Resilience (Months 10-12)
 
@@ -52,18 +52,18 @@ Building upon Freenet's concepts but with:
 
 ### Anti-Censorship
 
-- [ ] Bootstrap node discovery that's resistant to blocking
-- [ ] Protocol obfuscation (masquerading as normal traffic)
-- [ ] Dead-man's switch for network persistence
+- [x] Bootstrap node discovery that's resistant to blocking
+- [x] Protocol obfuscation (masquerading as normal traffic)
+- [x] Dead-man's switch for network persistence
 
 ## Phase 4: Ecosystem Growth (Ongoing)
 
 ### Community & Adoption
 
-- [ ] Developer documentation portal
-- [ ] Gateway tools for existing web compatibility
-- [ ] Onboarding for non-technical users
-- [ ] Bug bounty program
+- [x] Developer documentation portal
+- [x] Gateway tools for existing web compatibility
+- [x] Onboarding for non-technical users
+- [x] Bug bounty program
 
 ## Immediate Next Steps
 
